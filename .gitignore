@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.vs/
+bin/
+obj/
+publish/
+**/publish/
+
+# Build
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Database local files - bỏ comment nếu database không muốn đưa lên GitHub
+# *.mdf
+# *.ldf
+
+# OS
+.DS_Store
+Thumbs.db
